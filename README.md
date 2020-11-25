@@ -23,6 +23,6 @@ original Nintendo specs.
 * Display the tiles in memory that are currently used in the game
 
 
-## Screenshot of the game
+## Example of screenshots
 ![The Legend of Zelda: Link's Awakening](screenshot/img_2018-05-29_22-19-15-998.png "
 The Legend of Zelda: Link's Awakening") &nbsp;
