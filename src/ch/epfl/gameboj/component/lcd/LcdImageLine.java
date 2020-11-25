@@ -91,7 +91,7 @@ public final class LcdImageLine {
      */
     public LcdImageLine mapColors(int map) {
         if(map == UNCHANGED_COLORS_MAP_VALUE)
-            return new LcdImageLine(msb, lsb, opacity);
+            return this;
 
         Preconditions.checkBits8(map);
         //c[0] = 00, c[1] = 01, c[2] = 10, c[3] = 11
